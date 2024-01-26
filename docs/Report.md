@@ -47,4 +47,4 @@
 
 **Рекомендуется устранить найденные дефекты и провести повторное тестирование**
 
-Полный список найденных дефектов находится в [issues](https://github.com/FecklaSveckla/Diplom/issues)
+Полный список найденных дефектов находится в [issues](https://github.com/STALKSA/FirstQADiplom/issues)
