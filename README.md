@@ -3,7 +3,7 @@
 Дипломный проект представляет собой автоматизацию тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.
 
 ## Документы
-* [Задание](https://github.com/STALKSA/Diplom/blob/main/docs/Zadanie.md)
+* [Задание](https://github.com/STALKSA/FirstQADiplom/blob/main/docs/Zadanie.md)
 * [План автоматизации](https://github.com/STALKSA/Diplom/blob/main/docs/Plan.md)
 * [Отчет по итогам тестирования](https://github.com/STALKSA/Diplom/blob/main/docs/Report.md)
 * [Отчет по итогам автоматизированного тестирования](https://github.com/STALKSA/Diplom/blob/main/docs/Summary.md)
