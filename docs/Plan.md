@@ -1,7 +1,7 @@
 # План автоматизации тестирования комплексного сервиса покупки туров
 
 ## Предусловие выполнения сценария:
-    1. Скачать проект с [Github]_(https://github.com/FecklaSveckla/Diplom) командой git clone
+    1. Скачать проект с [Github]_(https://github.com/STALKSA/FirstQADiplom/tree/main) командой git clone
     2. Открыть проект в IntelliJ IDEA
     3. Запуcтить SUT (System Under Test) 
     4. Открыть страницу покупки тура http://localhost:8080 (ссылка перехода на страницу покупки тура доступна только при запущенной SUT).
